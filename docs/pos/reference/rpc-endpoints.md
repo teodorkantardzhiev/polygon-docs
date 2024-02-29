@@ -73,6 +73,7 @@ Public RPCs may have rate limits or traffic restrictions. For dedicated free RPC
 - [BlockPI](https://blockpi.io/)
 - [Chainnodes](https://www.chainnodes.org/)
 - [Chainstack](https://chainstack.com/build-better-with-polygon/)
+- [Crypto APIs](https://developers.cryptoapis.io/technical-documentation/json-rpc/)
 - [DataHub (Figment)](https://datahub.figment.io)
 - [Dwellir](https://www.dwellir.com/networks/polygon)
 - [GetBlock](https://getblock.io/en/)
